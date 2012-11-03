@@ -1,0 +1,7 @@
+language: ruby
+script: rspec -b
+rvm:
+  - ruby-1.9.3
+  - ruby-2.0.0
+  - rbx-2.0.0
+  - jruby-1.7.5
