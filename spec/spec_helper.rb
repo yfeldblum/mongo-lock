@@ -1,4 +1,5 @@
 require "mongo"
+require "support/clock"
 
 RSpec.configure do |config|
 
