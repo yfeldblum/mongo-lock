@@ -1,6 +1,7 @@
 require "mongo"
 require "support/clock"
 require "support/pipe_queue"
+require "support/in_child_process"
 
 RSpec.configure do |config|
 
