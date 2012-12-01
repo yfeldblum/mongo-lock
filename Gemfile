@@ -6,3 +6,4 @@ gem "rubysl", "~> 2.0", platforms: %w[ rbx ]
 gemspec
 
 gem "bson_ext", platforms: %w[ mri rbx ]
+gem "ruby-prof", platforms: %w[ mri ]
